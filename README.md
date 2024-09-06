@@ -11,3 +11,4 @@ The AI Engineering Roadmap categorizes the journey into 3 stages:
 
 3. `Advanced` - After mastering application building, learn to deploy, optimize and manage LLM-powered apps in production with LLMOps. Learn to fine-tune pre-trained models to adapt to downstream applications efficiently and at a low cost.
 
+![image](https://github.com/user-attachments/assets/984645a2-445a-4c73-be73-5a18ebfdc1fe)

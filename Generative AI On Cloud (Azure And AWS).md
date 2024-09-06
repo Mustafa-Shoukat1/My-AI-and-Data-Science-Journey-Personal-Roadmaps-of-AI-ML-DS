@@ -1,6 +1,6 @@
 # Generative AI On Cloud (Azure And AWS)
 
-## Prerequisites To Start With
+## Prerequisites To Start With 
 
 ### 1. Python Programming Language
 1. Complete Python Playlist In English: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
@@ -16,17 +16,17 @@
 4. Word2vec, AvgWord2vec
 
 ### 3. Basic Deep Learning Concepts 
-[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns)
+[![YouTube](https://img.shields.io/badge/YouTube-Video-green)]()
+
 1. ANN - Working Of MultiLayered Neural Network
 2. Forward Propagation, Backward Propagation
 3. Activation Functions, Loss Functions
 4. Optimizers
 
-### 4. Advanced NLP Concepts
-[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=ZwYtqTaZ2io&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn&index=8)
+### 4. Advanced NLP Concepts [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX)
 1. RNN, LSTM RNN
 2. GRU RNN
-3. Bidirectional LSTM RNN
+3. Bidirectional LSTM RNN, GRU
 4. Encoder-Decoder, Attention is All You Need, Seq to Seq
 5. Transformers
 

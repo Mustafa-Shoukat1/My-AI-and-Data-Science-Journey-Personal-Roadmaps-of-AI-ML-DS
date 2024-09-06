@@ -111,7 +111,8 @@ Natural Language Processing (NLP) is of paramount importance for Machine Learnin
 - Building a text classifier
 - Speech Recognition
 
-# 7. Deep Learning
+# 7. Deep Learning  [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
+
 The best way to master deep learning algorithms is to work with TensorFlow or PyTorch.
  - Neural network basics
  - Activation functions

@@ -75,8 +75,8 @@ Statistics for machine learning come as a significant tool that studies this dat
 - Chi-Square Test
 - Implementation of continuous and categorical data
 
-# 5. Machine Learning
-[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
+# 5. Machine Learning [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
+
 To become proficient in machine learning algorithms, the most effective approach is to utilize the Scikit-Learn framework. Scikit-Learn provides a wealth of pre-defined algorithms that can be easily implemented by creating class objects. Familiarizing yourself with these algorithms is essential, especially those falling under the categories of Supervised and Unsupervised Machine Learning:
 
 1. Linear Regression

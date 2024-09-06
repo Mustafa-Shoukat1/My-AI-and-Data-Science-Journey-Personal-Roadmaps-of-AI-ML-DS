@@ -50,7 +50,7 @@ One of the most popular data visualization libraries in Python is Matplotlib, wh
 
 Additionally, you can learn Ploty and **Tableau** if you want.
 
-# 4. Statistics
+# 4. Statistics [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST)
 Statistics for machine learning come as a significant tool that studies this data for recognizing certain patterns. It helps you find unseen patterns by providing a proper direction for utilizing, analyzing, and presenting the raw data that is successfully implemented in fields like computer vision and speech analysis.
 
 ### Descriptive Statistics

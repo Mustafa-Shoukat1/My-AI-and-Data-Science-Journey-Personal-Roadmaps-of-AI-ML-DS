@@ -1,9 +1,8 @@
 # Advanced Machine Learning Engineer Roadmap
-A Full Stack ML (Machine Learning) Roadmap involves learning the necessary skills and technologies to become proficient in all aspects of machine learning, including data collection and preprocessing, model development, deployment, and maintenance.
 
-![christina-wocintechchat-com-SqmaKDvcIso-unsplash](https://github.com/farukalampro/advanced-machine-learning-engineer-roadmap-2023/assets/92469073/53814cd5-a085-4615-93b6-175876e914d5)
+A Full-stack ML (Machine Learning) Roadmap involves learning the necessary skills and technologies to become proficient in all aspects of machine learning, including data collection and preprocessing, model development, deployment, and maintenance.
 
-Below is a comprehensive roadmap that outlines the key steps and topics you should cover on your journey to becoming a Full Stack ML engineer. Keep in mind that this is a high-level roadmap, and you can customize it based on your interests and goals.
+Below is a comprehensive roadmap that outlines the key steps and topics you should cover on your journey to becoming a full-stack ML engineer. Keep in mind that this is a high-level roadmap, and you can customize it based on your interests and goals.
 
 
 # 1. Python Programming
@@ -31,12 +30,13 @@ NumPy and Pandas are two essential Python libraries that provide tools for handl
 - Different ways to create DataFrame
 - Series and DataFrames
 - Slicing, Rows, and Columns
-- Read, Write Operations with CSV files
+- Read and write Operations with CSV files
 - Handling Missing values
 - GroupBy and Concatenation
 
 # 3. Data Visualization
 One of the most popular data visualization libraries in Python is Matplotlib, which forms the foundation for other libraries like Seaborn and Plotly.
+
 ### Matplotlib
 - Bar Chart, Pie Chart, Histogram, Scatter Plot
 - Format Strings in Plots
@@ -76,6 +76,7 @@ Statistics for machine learning come as a significant tool that studies this dat
 - Implementation of continuous and categorical data
 
 # 5. Machine Learning
+[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
 To become proficient in machine learning algorithms, the most effective approach is to utilize the Scikit-Learn framework. Scikit-Learn provides a wealth of pre-defined algorithms that can be easily implemented by creating class objects. Familiarizing yourself with these algorithms is essential, especially those falling under the categories of Supervised and Unsupervised Machine Learning:
 
 1. Linear Regression
@@ -111,7 +112,7 @@ Natural Language Processing (NLP) is of paramount importance for Machine Learnin
 
 # 7. Deep Learning
 The best way to master deep learning algorithms is to work with TensorFlow or PyTorch.
- - Neural networks basics
+ - Neural network basics
  - Activation functions
  - Backpropagation algorithm
  - Popular deep learning frameworks: TensorFlow or PyTorch
@@ -157,11 +158,5 @@ Git and GitHub are essential tools in the field of Machine Learning (ML) for ver
 - How to build your own viral repository?
 - Building a personal landing page for your Portfolio for FREE
 - How to grow followers on GitHub?
-- How to work with a team? Part 2 - issues, milestone and projects
-
-
-## Follow Me
-
-[Follow me on LinkedIn](https://www.linkedin.com/in/farukalamai/)
-
+- How to work with a team? Part 2 - issues, milestone and projects.
 

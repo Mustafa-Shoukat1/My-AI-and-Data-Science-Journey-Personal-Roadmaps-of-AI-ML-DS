@@ -38,12 +38,4 @@
 6. Generative AI On Azure Cloud [![YouTube](https://img.shields.io/badge/YouTube-Video-green)]()
 7. Generative AI On AWS Cloud [![YouTube](https://img.shields.io/badge/YouTube-Video-green)]()
 
-## Youtube Channels For Referring All Videos. Consider Subscribing and pressing the bell icon.
-
-- Krish Naik : https://www.youtube.com/@krishnaik06
-- Krish Naik Hindi: https://www.youtube.com/@krishnaikhindi
-- Success Stories By Krish: https://www.youtube.com/channel/UCNSHtBgZ3dhcpv190JrK_LQ
-- Support Channel and Join this channel to get access to perks: https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig/join
-- Join My whatsapp channel:https://whatsapp.com/channel/0029Va9q4Yh2Jl8NIS1oPX01
-- Join My Telegram Channel:https://t.me/+V0UeLG8ji-F8ThNb
 

@@ -1,5 +1,5 @@
 <div align="center">
-<h1> AI Engineer Roadmap & Resources 🤖 </h1>
+<h1> Generative AI Engineer Roadmap & Resources 🤖 </h1>
 </div>
 
 

@@ -95,7 +95,8 @@ To become proficient in machine learning algorithms, the most effective approach
 - Predictive Analytics
 - Exploratory Data Analysis
 
-# 6. Natural Language Processing
+# 6. Natural Language Processing [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX) 
+
 Natural Language Processing (NLP) is of paramount importance for Machine Learning (ML) engineers for several reasons. NLP enables ML engineers to work with human language data, which is prevalent in various applications and industries.
 
 - Handling Unstructured Text DataSentiment analysis

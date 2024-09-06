@@ -40,6 +40,4 @@ Here's the content of your HTML table converted into a well-formatted markdown t
 
 You can extrapolate each of these ideas into full-fledged products / MVPs for different domains, industries and verticals.
 
-If you liked this roadmap, support the work by starring the repo.
 
-You can follow me on [YouTube](https://www.youtube.com/channel/UCH-xwLTKQaABNs2QmGxK2bQ/), [Twitter](https://twitter.com/dswharshit), [LinkedIn](https://www.linkedin.com/in/tyagiharshit/), [Substack](https://dswharshit.substack.com/), [GitHub](https://github.com/dswh/).

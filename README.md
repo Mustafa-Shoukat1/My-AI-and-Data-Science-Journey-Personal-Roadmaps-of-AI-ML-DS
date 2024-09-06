@@ -1,11 +1,5 @@
 <div align="center">
 <h1> AI Engineer Roadmap & Resources 🤖 </h1>
-
-<p align="center">
-<a href="https://www.youtube.com/channel/UCH-xwLTKQaABNs2QmGxK2bQ/">Follow me on YouTube</a> •  <a href="https://twitter.com/dswharshit"> X  </a> •
-<a href="https://www.linkedin.com/in/tyagiharshit/">LinkedIn </a> •
-<a href="https://dswharshit.substack.com/"> Subscribe to my Newsletter </a>
-</p>
 </div>
 
 

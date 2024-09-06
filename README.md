@@ -15,7 +15,7 @@ The AI Engineering Roadmap categorizes the journey into 3 stages:
 
 
 # Your trajectory
-![Image Trajectory](./imgs/trajectory.png)
+
 
 
 # Functional Product / Project Ideas to build the above skills

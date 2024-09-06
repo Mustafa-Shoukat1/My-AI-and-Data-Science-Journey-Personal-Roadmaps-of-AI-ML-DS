@@ -7,15 +7,15 @@
 The AI Engineering Roadmap categorizes the journey into 3 stages:
 1. `Beginner` - Build basic application to learn to consume LLM APIs, carefully engineering prompts for your applications and working with open source LLMs.
 
-2. `Intermediate` - Go deep into building more context aware advanced applications using Retreival Augmented Generation (RAG). Learn about vector databases and how to work with one. Learn to build agents with LLMs and tools.
+2. `Intermediate`—Go deep into building more context-aware advanced applications using Retreival Augmented Generation (RAG). Learn about vector databases and how to work with one. Learn to build agents with LLMs and tools.
 
-3. `Advanced` - After mastering application building, learn to deploy, optimise and manage LLM-powered apps in production with LLMOps. Learn to fine-tune pre-trained models to adapt to downstream applications efficiently and at low cost.
+3. `Advanced` - After mastering application building, learn to deploy, optimize and manage LLM-powered apps in production with LLMOps. Learn to fine-tune pre-trained models to adapt to downstream applications efficiently and at a low cost.
 
 
 
 I'd suggest you go deep in each stage, build projects, POCs or better yet, functional products and then move to the next stage.
 
-![AI Engineer Roadmap Cover](./imgs/ai_engg_roadmap.png)
+
 
 
 ## Learning Resources & References

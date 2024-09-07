@@ -1,21 +1,13 @@
 ## 🤖 **Generative AI Engineer Roadmap**
 
-### 1. 🚀 **Beginner**  
-- Kickstart your journey by building simple applications with LLM APIs.
-- Master the art of **prompt engineering** to tailor responses for your app.
-- Dive into the world of **open-source LLMs** for greater flexibility.
-
-### 2. 🌟 **Intermediate**  
-- Level up by creating **context-aware applications** using **Retrieval Augmented Generation (RAG)**.
-- Explore the power of **vector databases** to handle semantic search and retrieval.
-- Build **LLM agents** with advanced tools, enhancing your AI’s decision-making abilities.
-
-### 3. 🔥 **Advanced**  
-- Become a pro at deploying, optimizing, and managing **LLM-powered apps** with **LLMOps**.
-- Learn to **fine-tune pre-trained models** to fit niche applications, efficiently and cost-effectively.
-  
 ---
+The AI Engineering Roadmap categorizes the journey into 3 stages:
+1. `Beginner` - Build the basic application to learn to consume LLM APIs, carefully engineering prompts for your applications, and working with open-source LLMs.
 
+2. `Intermediate` - Go deep into building more context-aware advanced applications using Retrieval Augmented Generation (RAG). Learn about vector databases and how to work with one. Learn to build agents with LLMs and tools.
+
+3. `Advanced` - After mastering application building, learn to deploy, optimize and manage LLM-powered apps in production with LLMOps. Learn to fine-tune pre-trained models to adapt to downstream applications efficiently and at low cost.
+---
 > 💡 **Pro Tip:** Continuously build projects, experiment with proof of concepts (POCs), or even launch real-world applications to hone your skills at each stage. Progress with practical experience!
 
 ---

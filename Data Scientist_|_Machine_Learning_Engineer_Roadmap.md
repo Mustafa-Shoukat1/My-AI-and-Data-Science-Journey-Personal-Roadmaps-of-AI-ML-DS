@@ -86,16 +86,17 @@ Work with text data, sentiment analysis, and more.
 ---
 
 ### 7. Deep Learning 🧠 [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
+
 Learn frameworks like TensorFlow and PyTorch for deep learning.
 - Neural Networks and Backpropagation
 - CNN for Computer Vision
-- RNN for Sequential Data
+- RNN for Sequential Data, LSTM, GRU
 - GAN for Data Generation
 
 ---
 
 ### 8. Computer Vision 👁️
-Develop skills in interpreting visual data with OpenCV and pretrained models.
+Develop skills in interpreting visual data with OpenCV and pre-trained models.
 - Pretrained Models (AlexNet, ResNet)
 - Image Processing with OpenCV
 - Edge Detection and Neural Networks

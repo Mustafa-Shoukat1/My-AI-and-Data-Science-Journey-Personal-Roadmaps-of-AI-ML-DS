@@ -32,7 +32,7 @@ Data analysis is key to preparing and processing datasets for machine learning m
 ---
 
 ### 3. Data Visualization 📈
-Data visualization is essential for insights and presentation of results.
+Data visualization is essential for insights and the presentation of results.
 
 #### Matplotlib 🎨
 - Bar Chart, Pie Chart, Histogram, Scatter Plot

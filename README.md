@@ -1,4 +1,4 @@
-## 🤖 Generatie AI Engineer Roadmap
+## 🤖 Generative AI Engineer Roadmap
 
 ### 1. **Beginner**
 - Learn to build basic applications by consuming LLM APIs.

@@ -1,5 +1,8 @@
 ## 🚀 Advanced Machine Learning Engineer Roadmap
 
+![image](https://github.com/user-attachments/assets/8affbdf8-803e-4be0-b939-b53c603a05bc)
+
+
 ### 1. Python Programming 🐍
 Python is the foundation for machine learning, offering powerful libraries and ease of use.
 - 🟢 Basics: Variables, Operators, Conditional Statements
